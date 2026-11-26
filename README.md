@@ -22,7 +22,7 @@ A userplugin for [Vencord](https://vencord.dev) that adds a vertical motion blur
 1. Open your terminal inside the `src/userplugins` directory.
 2. Clone this repository:
    ```
-   git clone https://github.com
+   git clone https://github.com/NivexOwO/motionBlurScroll
    ```
 3. Verify that the plugin path looks like `src/userplugins/motionBlurScroll/index.tsx`.
 4. Go back to the root Vencord folder and build it:
